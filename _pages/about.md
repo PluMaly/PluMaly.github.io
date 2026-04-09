@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='https://www.phbs.pku.edu.cn'>PHBS, Peking University</a> | Incoming Master Student of Economics 
 profile:
   align: right
   image: prof_pic.jpg
